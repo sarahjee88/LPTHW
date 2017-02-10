@@ -18,3 +18,7 @@ I typed the code. I learned how to type comment. I found out that comments doesn
 ## LPTHW: Exercise 2
 ### Summary
 I typed in the code. I used print function and some mathematical expressions. After I ran it, it showed the calculation result, too.
+# 2017-02-10
+## LPTHW: Exercise 4
+### Summary
+I typed in some variables. I used variables between the print functions. It shouwed numbers between them!!!
