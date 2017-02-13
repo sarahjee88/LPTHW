@@ -24,9 +24,13 @@ I typed in the code. I used print function and some mathematical expressions. Af
 I typed in some variables. I used variables between the print functions. It shouwed numbers between them!!!
 # 2017-02-10
 ## LPTHW: Exercise 5
-### Sumary
+### Summary
 I typed some variables and print functions. It was long and hard work. When I ran it, it worked perfeclty.
 # 2017-02-13
 ## LPTHW: Exercise 6
 ### Summary
 I typed in some variables. I learned how to use '%' symbol. It is super fun and tricky...
+# 2017-02-13
+## LPTHW: Exercise 7
+### Summary
+I used print functions and many variables. I learned importance of 'comma (,)'. Typing things is fun!
