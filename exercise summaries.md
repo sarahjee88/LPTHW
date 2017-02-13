@@ -22,3 +22,7 @@ I typed in the code. I used print function and some mathematical expressions. Af
 ## LPTHW: Exercise 4
 ### Summary
 I typed in some variables. I used variables between the print functions. It shouwed numbers between them!!!
+# 2017-02-10
+## LPTHW: Exercise 4
+### Sumary
+I typed some variables and print functions. It was long and hard work. When I ran it, it worked perfeclty.
