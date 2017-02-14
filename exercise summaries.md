@@ -34,3 +34,7 @@ I typed in some variables. I learned how to use '%' symbol. It is super fun and 
 ## LPTHW: Exercise 7
 ### Summary
 I used print functions and many variables. I learned importance of 'comma (,)'. Typing things is fun!
+# 2017-02-14
+## LPTHW: Exercise 8
+### Summary
+I typed things in called 'formatter'. I learned what they do, and how they work. Formatters are so cool and uh-mazing!
