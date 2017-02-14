@@ -38,3 +38,7 @@ I used print functions and many variables. I learned importance of 'comma (,)'. 
 ## LPTHW: Exercise 8
 ### Summary
 I typed things in called 'formatter'. I learned what they do, and how they work. Formatters are so cool and uh-mazing!
+# 2017-02-14
+## LPTHW: Exercise 9
+### Summary
+I typed in three double-quotes and some sentences. It is so cool. I can type various sentences as many as I want!! 
