@@ -42,3 +42,7 @@ I typed things in called 'formatter'. I learned what they do, and how they work.
 ## LPTHW: Exercise 9
 ### Summary
 I typed in three double-quotes and some sentences. It is so cool. I can type various sentences as many as I want!! 
+# 2017-02-14
+## LPTHW: Exercise 10
+### Summary
+I typed in variables. I also typed in \ 'backslashes'. It works super amazingly...
