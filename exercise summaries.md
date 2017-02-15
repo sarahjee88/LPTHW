@@ -46,3 +46,7 @@ I typed in three double-quotes and some sentences. It is so cool. I can type var
 ## LPTHW: Exercise 10
 ### Summary
 I typed in variables. I also typed in \ 'backslashes'. It works super amazingly...
+# 2017-02-15
+## LPTHW: Exercise 11
+### Summary
+I typed in 'input' varaibles. It works when I type something. It is magical.
