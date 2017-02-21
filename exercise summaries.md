@@ -50,3 +50,7 @@ I typed in variables. I also typed in \ 'backslashes'. It works super amazingly.
 ## LPTHW: Exercise 11
 ### Summary
 I typed in 'input' varaibles. It works when I type something. It is magical.
+# 2017-02-15
+## LPTHW: Exercise 12
+### Summary
+I typed in 'raw_input' variables. I typed sentences inside the parenthesis. It shows the result with the numbers I typed in.
