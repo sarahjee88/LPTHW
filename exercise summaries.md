@@ -58,3 +58,7 @@ I typed in 'raw_input' variables. I typed sentences inside the parenthesis. It s
 ## LPTHW: Exercise 13
 ### Summary
 I used argument variables. I typed in three random things. It was kind of confusing lesson...
+# 2017-02-21
+## LPTHW: Exercise 14
+### Summary
+I typed in my name for the argument variable. I typed in few words more. It worked!!
