@@ -54,3 +54,7 @@ I typed in 'input' varaibles. It works when I type something. It is magical.
 ## LPTHW: Exercise 12
 ### Summary
 I typed in 'raw_input' variables. I typed sentences inside the parenthesis. It shows the result with the numbers I typed in.
+# 2017-02-21
+## LPTHW: Exercise 13
+### Summary
+I used argument variables. I typed in three random things. It was kind of confusing lesson...
