@@ -62,3 +62,7 @@ I used argument variables. I typed in three random things. It was kind of confus
 ## LPTHW: Exercise 14
 ### Summary
 I typed in my name for the argument variable. I typed in few words more. It worked!!
+# 2017-02-24
+## LPTHW: Exercise 15
+### Summary
+I typed in the file name which I want to open in the python. It read it to me. I love using "raw_input" !!!
