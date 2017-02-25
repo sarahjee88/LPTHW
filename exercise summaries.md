@@ -66,3 +66,7 @@ I typed in my name for the argument variable. I typed in few words more. It work
 ## LPTHW: Exercise 15
 ### Summary
 I typed in the file name which I want to open in the python. It read it to me. I love using "raw_input" !!!
+# 2017-02-25
+## LPTHW: Exercise 16
+### Summary
+I typed in really long code. When I ran it, it asked me to type 3 lines. The 3 lines of the test.txt were replaced!!
