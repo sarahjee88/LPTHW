@@ -70,3 +70,7 @@ I typed in the file name which I want to open in the python. It read it to me. I
 ## LPTHW: Exercise 16
 ### Summary
 I typed in really long code. When I ran it, it asked me to type 3 lines. The 3 lines of the test.txt were replaced!!
+# 2017-02-28
+## LPTHW: Exercise 17
+### Summary
+I learned what len() function do. It was very long code. AND it worked...
