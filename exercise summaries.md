@@ -82,3 +82,7 @@ This was very confusing but I nailed it... I learned what is args. I think this 
 ## LPTHW: Exercise 19
 ### Summary
 I typed in cheese_and_crackers function. I ran it multiple times with each different ways. It worked, and I think I'm genius...
+# 2017-03-06
+## LPTHW: Exercise 20
+### Summary
+I typed in test.txt. I ran it with my code... It worked..!!!!
