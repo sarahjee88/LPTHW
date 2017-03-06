@@ -74,3 +74,7 @@ I typed in really long code. When I ran it, it asked me to type 3 lines. The 3 l
 ## LPTHW: Exercise 17
 ### Summary
 I learned what len() function do. It was very long code. AND it worked...
+# 2017-03-06
+## LPTHW: Exercise 18
+### Summary
+This was very confusing but I nailed it... I learned what is args. I think this excersice was about making functions..?
