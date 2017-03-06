@@ -78,3 +78,7 @@ I learned what len() function do. It was very long code. AND it worked...
 ## LPTHW: Exercise 18
 ### Summary
 This was very confusing but I nailed it... I learned what is args. I think this excersice was about making functions..?
+# 2017-03-06
+## LPTHW: Exercise 19
+### Summary
+I typed in cheese_and_crackers function. I ran it multiple times with each different ways. It worked, and I think I'm genius...
