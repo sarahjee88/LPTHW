@@ -1,0 +1,23 @@
+print = either statement or function / used with quotation mark next to it
+# = used to write comments
++ = adds variables
+- = subtracts variables
+/ = divides variables
+* = (asterisks) multiplies variables
+> = inequality; greater than
+< = inequality; less than
+= = equal
+%d = integers; only numbers
+%s = strings; only words
+%r = raw; accept either integers or strings
+\t = escape character; puts indent
+\n = set a new line
+raw_input() = get data directly from a typed variables from users
+from sys import argv = gets outer source (or argument tool) from system
+open = function that opens files
+read() = reads from file
+truncate() = shorten the length of text and read
+write() = write inside the file
+close() = close the file
+def = function that defines and make a function
+print """ = able to print lines or texts without limitations
