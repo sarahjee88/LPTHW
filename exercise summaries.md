@@ -86,3 +86,7 @@ I typed in cheese_and_crackers function. I ran it multiple times with each diffe
 ## LPTHW: Exercise 20
 ### Summary
 I typed in test.txt. I ran it with my code... It worked..!!!!
+# 2017-03-06
+## LPTHW: Exercise 21
+### Summary
+I made four functions that add, subtract, multiply, and divide. I typed in numers. It worked...
