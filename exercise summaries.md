@@ -94,3 +94,7 @@ I made four functions that add, subtract, multiply, and divide. I typed in numer
 ## LPTHW: Exercise 22
 ### Summary
 I reviewed whole things I learned. I defined every functions and variables. I fill I learned something now.
+# 2017-03-14
+## LPTHW: Exercise 24
+### Summary
+I skipped exercise 23 for now... but I will do it later. Anyway, I typed that long code. It worked, and it helped me to review some codes from last lessons.
