@@ -98,3 +98,7 @@ I reviewed whole things I learned. I defined every functions and variables. I fi
 ## LPTHW: Exercise 24
 ### Summary
 I skipped exercise 23 for now... but I will do it later. Anyway, I typed that long code. It worked, and it helped me to review some codes from last lessons.
+# 2017-03-15
+## LPTHW: Exercise 25
+### Summary
+I typed in and I ran it in the python. I typed function... And they worked and sorted the things.
