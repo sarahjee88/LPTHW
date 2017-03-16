@@ -106,3 +106,7 @@ I typed in and I ran it in the python. I typed function... And they worked and s
 ## LPTHW: Exercise 26
 ### Summary
 I copied and pasted the wrong code. I fixed all the errors I could find. I accidently missed some codes, so I fixed it by running it.
+# 2017-03-16
+## LPTHW: Exercise 27
+### Summary
+I memorized and practiced the truth tables and rules. It was kind of confusing. However, since I learned it before, it was easy for me to memorize.
