@@ -110,3 +110,7 @@ I copied and pasted the wrong code. I fixed all the errors I could find. I accid
 ## LPTHW: Exercise 27
 ### Summary
 I memorized and practiced the truth tables and rules. It was kind of confusing. However, since I learned it before, it was easy for me to memorize.
+# 2017-03-16
+## LPTHW: Exercise 28
+### Summary
+I typed in the boolean problems that are given and I solved it. I checked with python if I was right. As always... I got nothing wrong. :)
