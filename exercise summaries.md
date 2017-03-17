@@ -118,3 +118,7 @@ I typed in the boolean problems that are given and I solved it. I checked with p
 ## LPTHW: Exercise 29
 ### Summary
 I learned what if function does. I typed in and it worked. It was fun.
+# 2017-03-17
+## LPTHW: Exercise 30
+### Summary
+I typed in bunch of if statements and it worked. I think I understood what elif and else does. It's kind of simple but still important to know!!
