@@ -126,3 +126,7 @@ I typed in bunch of if statements and it worked. I think I understood what elif 
 ## LPTHW: Exercise 31
 ### Summary
 I typed in if and elif and else statements. When I ran it, I tried every choices I could. It's really cute! :)
+# 2017-03-17
+## LPTHW: Exercise 32
+### Summary
+I typed in some lists. I used for-loop and used append. It's complicated at first but it's simple.
