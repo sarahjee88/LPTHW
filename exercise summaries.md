@@ -130,3 +130,7 @@ I typed in if and elif and else statements. When I ran it, I tried every choices
 ## LPTHW: Exercise 32
 ### Summary
 I typed in some lists. I used for-loop and used append. It's complicated at first but it's simple.
+# 2017-03-20
+## LPTHW: Exercise 33
+### Summary
+I typed in while loops. It added numbers until it's less than 6. I think I understood..!!
