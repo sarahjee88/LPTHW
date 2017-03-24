@@ -134,3 +134,7 @@ I typed in some lists. I used for-loop and used append. It's complicated at firs
 ## LPTHW: Exercise 33
 ### Summary
 I typed in while loops. It added numbers until it's less than 6. I think I understood..!!
+# 2017-03-24
+## LPTHW: Exercise 23
+### Summary
+I copied other person's code and commented on it. I got a python program that increases youtube view until 300. It was quite short and easy program, so it wasn't that hard. But I'n not sure if I wrote it correctly...
